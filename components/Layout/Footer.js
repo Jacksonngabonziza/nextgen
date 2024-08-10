@@ -1,6 +1,6 @@
 import React from "react";
 import { FaFacebookF, FaTwitter, FaInstagram } from 'react-icons/fa';
-import LogoVPN from "../../public/assets/log.svg";
+import LogoVPN from "../../public/assets/Log.svg";
 
 const Footer = () => {
   return (

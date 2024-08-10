@@ -89,3 +89,24 @@ li.check:before {
   color: var(--primary-color);
 }
 
+.mission-vision-values {
+  padding-top: 3rem;
+}
+
+.section-item {
+  background-color: white;
+  border-radius: 0.5rem;
+  padding: 2rem;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
+}
+
+.icon-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 80px;
+  width: 80px;
+  margin: 0 auto;
+  background-color: #f0f4f8;
+  border-radius: 50%;
+}
